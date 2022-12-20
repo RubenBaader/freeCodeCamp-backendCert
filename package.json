@@ -1,4 +1,5 @@
 {
+	"description": "A project that does something awesome",
 	"author": "Ruben Baader",
 	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
